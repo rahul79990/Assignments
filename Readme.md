@@ -67,4 +67,4 @@ Copyright :copyright: 2019 Frank Abgrall.
 This project is MIT licensed.
 
 ___
-This README was generated with :heart: by readme-md-generator
+This README was generated with :heart: by Rahul Chaurasiya
