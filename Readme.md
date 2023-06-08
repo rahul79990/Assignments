@@ -42,7 +42,7 @@ npm run test
 ```
 
 
-## Author
+## :bust_in_silhouette: Author
 ___
 Franck Abgrall
 * twitter: [@franckabgrall](https://github.com/rahul79990/Assignments)
